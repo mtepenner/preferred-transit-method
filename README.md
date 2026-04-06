@@ -23,7 +23,7 @@ Because this project relies entirely on client-side technologies, no complex ins
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/preferred-transit-method.git](https://github.com/yourusername/preferred-transit-method.git)
+   git clone https://github.com/yourusername/preferred-transit-method.git
    ```
 
 2.  Navigate to the project directory:
